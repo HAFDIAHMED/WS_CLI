@@ -1,0 +1,10 @@
+{
+    "name": "WS_CLI",
+    "version": "0.0.1",
+    "bin": {
+      "WS_CLI": "./bin/index.js"
+    },
+    "dependencies": {
+      "commander": "^3.0.1"
+    }
+  }
